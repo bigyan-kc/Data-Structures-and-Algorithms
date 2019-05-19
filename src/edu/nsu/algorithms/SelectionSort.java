@@ -1,4 +1,4 @@
-package edu.nsu.Algorithms;
+package edu.nsu.algorithms;
 
 import util.Util;
 

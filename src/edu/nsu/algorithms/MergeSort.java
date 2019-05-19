@@ -1,4 +1,4 @@
-package edu.nsu.Algorithms;
+package edu.nsu.algorithms;
 
 public class MergeSort implements Sorting {
     public void sortArray(int[] arr, int begin, int end){
