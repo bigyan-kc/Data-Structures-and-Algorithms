@@ -1,4 +1,4 @@
-# Implemented Data Structures and Algorithms in Java
+# Data Structures and Algorithms in Java
 
 ### Following data strutures are implemented:
 - Linked list
